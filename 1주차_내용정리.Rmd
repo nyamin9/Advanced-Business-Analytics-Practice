@@ -1,0 +1,8 @@
+---
+title: "1주차 내용정리"
+author: "Kang mingu"
+date: '2023 3 17 '
+output: html_document
+---
+
+ㅁㅁ
