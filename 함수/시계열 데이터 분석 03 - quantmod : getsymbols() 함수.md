@@ -1,12 +1,13 @@
 # 🕑 quantmod : getSymbols() 함수  
 
-***  
-
 <br>  
 
 quantmod 패키지의 getSymbols( ) 함수를 통해 야후 파이낸스 데이터를 ts data 형태로 불러올 수 있습니다.  
 
 주말도 알아서 제외해줍니다.  
+
+<br>  
+
 
 🕑 getSymbols( ) 함수 예시 : `getSymbols("META", src = "yahoo", from = as.Date("2015-08-01"), to = as.Date("2016-08-31"))`  
 
