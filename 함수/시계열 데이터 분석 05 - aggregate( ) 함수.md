@@ -1,4 +1,4 @@
-# 🕑 aggregae( )  
+# 🕑 aggregate( )  
 
 <br>  
 
